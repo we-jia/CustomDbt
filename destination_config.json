@@ -1,0 +1,1 @@
+{"host":"localhost","port":1433,"schema":"MyTest","database":"NCBizModuleDBTest2","password":"Sa123456","username":"sa","ssl_method":{"ssl_method":"unencrypted"},"tunnel_method":{"tunnel_method":"NO_TUNNEL"}}
