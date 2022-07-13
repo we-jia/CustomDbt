@@ -6,8 +6,8 @@
 -- Final base SQL model
 -- depends_on: {{ ref('airbytetest_ab3') }}
 select
-    id,
-    name,
+    id as ID,
+    name as NAME,
     _airbyte_ab_id,
     _airbyte_emitted_at,
     {{ current_timestamp() }} as _airbyte_normalized_at,
