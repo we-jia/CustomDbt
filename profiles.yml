@@ -10,7 +10,7 @@ normalize:
       driver: ODBC Driver 17 for SQL Server
       password: Sa123456
       port: 1433
-      schema: 'MyTest'
+      schema: MyTest
       server: localhost
       threads: 8
       type: sqlserver

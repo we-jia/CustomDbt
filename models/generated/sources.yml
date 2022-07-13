@@ -1,6 +1,6 @@
 version: 2
 sources:
-- name: 'MyTest'
+- name: mytest
   quoting:
     database: true
     schema: false

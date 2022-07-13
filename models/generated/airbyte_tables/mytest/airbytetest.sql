@@ -1,6 +1,6 @@
 {{ config(
     unique_key = '_airbyte_ab_id',
-    schema = 'MyTest',
+    schema = "mytest",
     tags = [ "top-level" ]
 ) }}
 -- Final base SQL model
