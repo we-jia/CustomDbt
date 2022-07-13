@@ -45,7 +45,7 @@ vars:
   - airbyte_utils
   json_column: _airbyte_data
   models_to_source:
-    airbytetest_ab1: mytest._airbyte_raw_airbytetest
-    airbytetest_ab2: mytest._airbyte_raw_airbytetest
-    airbytetest_ab3: mytest._airbyte_raw_airbytetest
-    airbytetest: mytest._airbyte_raw_airbytetest
+    airbytetest_ab1: MyTest._airbyte_raw_airbytetest
+    airbytetest_ab2: MyTest._airbyte_raw_airbytetest
+    airbytetest_ab3: MyTest._airbyte_raw_airbytetest
+    airbytetest: MyTest._airbyte_raw_airbytetest
